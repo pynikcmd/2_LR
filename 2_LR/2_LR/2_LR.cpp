@@ -1,6 +1,12 @@
 ﻿#include <iostream>
+using namespace std;
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    setlocale(LC_ALL, "Russian");
+    
+    cout << "Лабораторная работа №2";
+
+
+
 }
