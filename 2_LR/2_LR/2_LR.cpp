@@ -10,4 +10,5 @@ int main()
     cout << "4";
     cout << "5";
     cout << "6";
+    cout << "7";
 }
