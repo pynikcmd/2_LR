@@ -9,4 +9,5 @@ int main()
     cout << "3";
     cout << "4";
     cout << "5";
+    cout << "6";
 }
